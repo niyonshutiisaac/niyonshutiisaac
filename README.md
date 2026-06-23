@@ -1,6 +1,6 @@
 # 👋 Hi, I'm NIYONSHUTI ISAAC
 
-### 🚀 Senior Software Engineer | Full-Stack | AI & Systems Developer
+###  Senior Software Engineer | Full-Stack | AI & Systems Developer
 
 🌍 **Based in Rwanda**
 
@@ -10,10 +10,10 @@
 
 I am a highly experienced Software Engineer with a strong background in building scalable web applications, backend systems, and intelligent solutions.
 
-- 💼 Full-stack development & system design  
-- 🤖 AI & Machine Learning enthusiast  
-- ⚙️ DevOps, Cloud & Microservices  
-- 🚀 Building scalable, production-ready systems  
+-  Full-stack development & system design  
+-  AI & Machine Learning enthusiast  
+-  DevOps, Cloud & Microservices  
+-  Building scalable, production-ready systems  
 
 ---
 
