@@ -70,7 +70,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Vue.js-0A0A0A?style=for-the-badge&logo=vuedotjs&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=00FF41" />
@@ -80,7 +79,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-0A0A0A?style=for-the-badge&logo=react&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Expo-0A0A0A?style=for-the-badge&logo=expo&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=00FF41" />
 </p>
 
 ### 🧩 Backend & Frameworks
