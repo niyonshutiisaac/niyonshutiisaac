@@ -1,17 +1,17 @@
 <!-- ======================== HERO BANNER ======================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003B00,100:00FF41&height=260&section=header&text=NIYONSHUTI%20ISAAC&fontSize=48&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=%3E_%20Computer%20Science%20Student%20%7C%20Ethical%20Hacker%20%7C%20Full-Stack%20Engineer&descAlignY=60&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003B00,100:00FF41&height=260&section=header&text=NIYONSHUTI%20ISAAC&fontSize=48&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=%3E_%20Software%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16" width="100%"/>
 </p>
 
 <!-- ======================== TYPING ANIMATION ======================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=800&height=60&lines=Computer+Science+Student;Ethical+Hacker+%7C+Cybersecurity+Enthusiast;Full-Stack+Software+Engineer;Embedded+Systems+%26+IoT+Developer;AI+%26+Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=800&height=60&lines=Software+Engineer;Ethical+Hacker+%7C+Cybersecurity+Enthusiast;Full-Stack+Software+Engineer;Embedded+Systems+%26+IoT+Developer;AI+%26+Machine+Learning+Engineer" alt="Typing SVG" />
 </p>
 
 <!-- ======================== STATUS BADGES ======================== -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=powerpages&logoColor=00FF41&labelColor=000000" />
-  <img src="https://img.shields.io/badge/ROLE-CS_STUDENT-00FF41?style=for-the-badge&logo=gradle&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ROLE-SOFTWARE_ENGINEER-00FF41?style=for-the-badge&logo=gradle&logoColor=00FF41&labelColor=000000" />
   <img src="https://img.shields.io/badge/LOCATION-RWANDA-00FF41?style=for-the-badge&logo=googlemaps&logoColor=00FF41&labelColor=000000" />
   <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00FF41?style=for-the-badge&logo=shield&logoColor=00FF41&labelColor=000000" />
 </p>
@@ -29,7 +29,7 @@
 ┌──────────────────────────────────────────────────────────────────┐
 │  root@isaac:~$ cat about_me.txt                                  │
 │                                                                  │
-│  > Computer Science Student & Senior Software Engineer           │
+│  > Software Engineer                                              │
 │  > Ethical Hacker & Cybersecurity Enthusiast                     │
 │  > Full-Stack | AI | Embedded Systems Developer                  │
 │  > Building secure, scalable & intelligent systems               │
